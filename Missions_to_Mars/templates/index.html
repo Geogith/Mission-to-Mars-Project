@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Planet_Mars</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+</head>
+
+<body>
+  <div class="container">
+
+    <div class="jumbotron text-center">
+      <h1>Mission to Mars</h1>
+      <a href="/scrape"><button>Scrape New Data</button></a>
+    </div>
+
+    <div class="row">
+      <h1>Latest Mars News</h1>
+    </div>
+
+    <div class="row">
+      <h4>{{ data1 }}</h4>
+      <p>{{ data2 }}</p>
+    </div>
+
+    <div class="row">
+      <img src={{ data3 }}></img> 
+    </div>
+
+    <div class="row">
+      {{ data5 }}
+    </div>
+
+    <div class="row>">
+      {% for hemname in data4 %}
+      <h4>{{ hemname.title }}</h4>
+      <img src={{ hemname.img_url }}></img>
+      {% endfor %}
+    </div>
+
+
+  
+
+
+  </div>
+</body>
+
+</html>

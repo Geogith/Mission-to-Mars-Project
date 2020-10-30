@@ -8,7 +8,7 @@ https://space-facts.com/mars/
 https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars)
 The following steps were taken to complete this homework:
 Step 1: A repository was created on GitHub.
-Step2: Several application were used to web scrape, such as Jupyter Notebook, BeautifulSoup, Pandas, Request/Splinter, MongoDB and a Flask application to complete the assignment.
+Step2: Several application were used to web scrape, such as Jupyter Notebook, BeautifulSoup, Pandas, Request/Splinter, MongoDB and a Flask application.
 Step 3: Web scraping was done by creating a Jupyter notebook (mission_to_mars.ipynb) to extract the news title and paragraph text for approximately 10 articles on the nasa news site shown above.
 Step 4: Four mars images (featured_image_url) were scraped for the jpl.nasa. gov website using splinter to navigate the site and to find the images. The url images were assigned a variable named featured_image_url.
 Step 5: Pandas was used to convert the data to a HTML table string.

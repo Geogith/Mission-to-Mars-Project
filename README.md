@@ -5,7 +5,7 @@ This was the most difficult assignment to date. It required web scraping several
 https://mars.nasa.gov/news
 https://www.jpl.nasa.gov/spaceimages/?search=&catergory=Mars)
 https://space-facts.com/mars/
-https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars) a 
+https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars)
 The following steps were taken to complete this homework:
 Step 1: A repository was created on GitHub.
 Step2: Several application were used to web scrape, such as Jupyter Notebook, BeautifulSoup, Pandas, Request/Splinter, MongoDB and a Flask application to complete the assignment.

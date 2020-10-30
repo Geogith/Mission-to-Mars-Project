@@ -17,3 +17,4 @@ Step 7: VS Code was used to create the Flask Application and MongoDB. The Jupyte
 Step 8: Another root ‘/’ was created to query the Mongo database. This was used to pass the mars data into a HTML template for display.
 Step 9: Finally, an index.html file was created to take the mars data dictionary and display all the data and images on a HTML webpage.
 After completing all the steps, all created data was upload to GitHub for transfer to bootcampspot.  A screenshot of featured images was also uploaded to show that the code ran successfully.
+fd

@@ -1,5 +1,4 @@
-# Web-Scraping-Challenge
-Mission to Mars Project
+# Mission to Mars Project
 
 This was the most difficult assignment to date. It required web scraping several sites:
 https://mars.nasa.gov/news
